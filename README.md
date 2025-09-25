@@ -1,5 +1,10 @@
-Developed an interactive dashboard to analyse pizza sales using excel.
-Tracked key performance indicators such as total revenue, average order value and total pizzas sold.
-Used Pivot tables and charts to visualize trends in daily and hourly sales, best and worst sellers and pizza size/category performance.
-Identified peak sales hours and top-performance days.
-Derived actionable insights such as top-selling pizzas and underperforming items to support business decision.
+ 🍕 Pizza Sales Dashboard using Excel
+This project analyzes pizza sales data using Excel to uncover insights and support business decisions.
+ 📊 Key Insights
+- Total revenue, average order value, and category performance
+- Top-selling pizzas and underperforming items
+- Daily/weekly sales trends
+🛠️ Tools Used
+- Microsoft Excel (Pivot Tables, Charts, Dashboard)
+📂 File
+- pizza_project_workbook_dashboard.xlsx: contains the dashboard.
